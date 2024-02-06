@@ -1,0 +1,30 @@
+body{
+    background-color: #ffbe98;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: #ffd0b5;
+    padding: 100px;
+    text-align: center;
+    border-radius: 10px;
+    input{
+        border: 1px solid #ffbe98;
+        border-radius: 10px;
+        padding: 5px 7px;
+    }
+    button{
+        border: 1px solid #ffbe98;
+        border-radius: 10px;
+        padding: 5px 7px;
+        background-color: #ffbe98;
+        cursor: pointer;
+        color: white;
+        border: 1px solid white;
+    }
+    p{
+        color: #fa9053;
+    }
+}
